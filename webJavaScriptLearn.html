@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script language="javascript">
+        function MyFunction() {
+            document.getElementById("demo").innerHTML = "this is the first JavaScript function!";
+
+        }
+        window.onbeforeunload = function () {
+            //用户点击浏览器右上角关闭按钮或是按alt+F4关闭 
+            if (event.clientX > document.body.clientWidth && event.clientY < 0 || event.altKey) {
+                // alert("点关闭按钮"); 
+                document.getElementById("hiddenForm:hiddenBtn").click();
+                // window.event.returnValue="确定要退出本页吗?"; 
+            }
+            //用户点击任务栏，右键关闭。s或是按alt+F4关闭 
+            else if (event.clientY > document.body.clientHeight || event.altKey) {
+                // alert("任务栏右击关闭"); 
+                document.getElementById("hiddenForm:hiddenBtn").click();
+                // window.event.returnValue="确定要退出本页吗?"; 
+            }
+            //其他情况为刷新 
+            else {
+                // alert("刷新页面"); 
+            }
+        }
+    </script>
+    <script language="JavaScript" type="text/javascript">
+        var DispClose = true;
+
+        function CloseEvent() {
+            if (DispClose) {
+                return "是否离开当前页面?";
+            }
+        }
+
+        function UnLoadEvent() {
+            DispClose = false;
+            //在这里处理关闭页面前的动作 
+            alert("hello world!");
+        }
+    </script>
+</head>
+
+<body scroll="no" onbeforeunload="return CloseEvent();" onunload="UnLoadEvent()">
+
+    <script>
+        document.write("<h1>1223</h1>");
+        document.write("<p>fdfgsw</p>");
+    </script>
+    <p id="demo">I'm Jenny</p>
+    <button type="button" onclick="MyFunction()">click Me</button>
+
+</body>
+
+</html>
