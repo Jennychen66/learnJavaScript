@@ -29,9 +29,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## https://johnpapa.net/
 ## nvm install
 ### https://github.com/creationix/nvm/blob/master/README.md 
-    https://github.com/coreybutler/nvm-windows   - > this is the steps for installing nvm for windows
+https://github.com/coreybutler/nvm-windows   - > this is the steps for installing nvm for windows
     npm install 6.12.1 nodejs
     
 ### Error Issue : Failed at the node-sass@3.13.1 postinstall script
 https://github.com/codecombat/codecombat/issues/4430
-use this command line to fix the above issue: npm install --save-dev gulp-sass@latest
+use this command line to fix the above issue
+    `npm install --save-dev gulp-sass@latest`
