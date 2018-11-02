@@ -25,6 +25,18 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+____________________________
+
+# learning about Angular2 
+1. The online cource link : https://app.pluralsight.com/player?course=angular-2-first-look&author=john-papa&name=angular-2-first-look-m4&clip=1&mode=live
+2. Johnpapa blog : https://johnpapa.net/
+3. Johnpapa's online hand book practice :http://angular2-first-look.azurewebsites.net/
+____________________________
+# Knowledge Point 
+
+
+____________________________
+
 
 ## https://johnpapa.net/
 ## nvm install
