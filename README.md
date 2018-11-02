@@ -33,7 +33,7 @@ ____________________________
 3. Johnpapa's online hand book practice :http://angular2-first-look.azurewebsites.net/
 ____________________________
 # Knowledge Point 
-
+<img width="670" alt="capture" src="https://user-images.githubusercontent.com/39254430/47899511-c0819f00-deb4-11e8-8f7f-013f70e5c550.PNG">
 
 ____________________________
 
