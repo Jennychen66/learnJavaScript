@@ -34,7 +34,11 @@ ____________________________
 ____________________________
 # Knowledge Point 
 <img width="670" alt="capture" src="https://user-images.githubusercontent.com/39254430/47899511-c0819f00-deb4-11e8-8f7f-013f70e5c550.PNG">
-
+<img width="656" alt="capture" src="https://user-images.githubusercontent.com/39254430/47899688-40a80480-deb5-11e8-8f85-4b7e4eeb4957.PNG">
+<img width="718" alt="capture" src="https://user-images.githubusercontent.com/39254430/47899953-2ae70f00-deb6-11e8-8fc0-d4f8c660d558.PNG">
+<img width="489" alt="capture" src="https://user-images.githubusercontent.com/39254430/47900193-050e3a00-deb7-11e8-8500-4e0ebfa755e8.PNG">
+<img width="666" alt="capture" src="https://user-images.githubusercontent.com/39254430/47900273-47d01200-deb7-11e8-9fc2-93d91b5e4fc6.PNG">
+<img width="676" alt="capture" src="https://user-images.githubusercontent.com/39254430/47900365-a09faa80-deb7-11e8-9000-1e03cc56471e.PNG">
 ____________________________
 
 
