@@ -39,6 +39,33 @@ ____________________________
 <img width="489" alt="capture" src="https://user-images.githubusercontent.com/39254430/47900193-050e3a00-deb7-11e8-8500-4e0ebfa755e8.PNG">
 <img width="666" alt="capture" src="https://user-images.githubusercontent.com/39254430/47900273-47d01200-deb7-11e8-9fc2-93d91b5e4fc6.PNG">
 <img width="676" alt="capture" src="https://user-images.githubusercontent.com/39254430/47900365-a09faa80-deb7-11e8-9000-1e03cc56471e.PNG">
+<img width="663" alt="capture" src="https://user-images.githubusercontent.com/39254430/47900992-a4343100-deb9-11e8-8386-ebf15408985c.PNG">
+<img width="644" alt="capture" src="https://user-images.githubusercontent.com/39254430/47901098-f83f1580-deb9-11e8-9559-968c6896af6a.PNG">
+
+```<div class="row">
+        <a href="{{character.link}}" target="_blank">
+          <img [style.background]="color"
+          (mouseenter)="color = '#EE0'"
+          (mouseleave)="color = '#0EE'"
+          [src]="character.imageUrl" style="width:50px">
+          
+        </a>
+        
+    <input type="text" id="nametext" class="mdl-textfield__input"
+        [value]="character.name"
+        (input)="character.name = $event.target.value"
+        >
+ ```
+ ```
+ <pre>{{vehicles | json}}</pre>
+ <ul [ngClass]="{selected : isSelected}">
+  <li *ngFor = "let vehicle of vehicles,let i = index">
+    {{i}}.{{vehicle.name}}
+  </li>
+</ul>
+ ```
+        
+        
 ____________________________
 
 
