@@ -83,3 +83,4 @@ use this command line to fix the above issue
 https://github.com/sass/node-sass/issues/2196
 ### nodejs pervious version release : https://nodejs.org/en/download/releases/
 ### a javascript lib tutorials: https://flaviocopes.com/tags/node/
+    javascript ES6 :https://medium.freecodecamp.org/write-less-do-more-with-javascript-es6-5fd4a8e50ee2
