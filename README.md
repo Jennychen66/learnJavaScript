@@ -27,9 +27,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 ____________________________
 ## [Angular Learning](https://github.com/Jennychen66/LearnJs/wiki/Angular-Learning)
+____________________________
 
-## https://johnpapa.net/
-## nvm install
+`nvm install`
 ### https://github.com/creationix/nvm/blob/master/README.md 
 https://github.com/coreybutler/nvm-windows   - > this is the steps for installing nvm for windows
     npm install 6.12.1 nodejs
@@ -41,4 +41,4 @@ use this command line to fix the above issue
 https://github.com/sass/node-sass/issues/2196
 ###  [nodejs pervious version release](https://nodejs.org/en/download/releases/)
 ###  [A javascript lib tutorials](https://flaviocopes.com/tags/node/)
-    javascript ES6 :https://medium.freecodecamp.org/write-less-do-more-with-javascript-es6-5fd4a8e50ee2
+    [javascript ES6](https://medium.freecodecamp.org/write-less-do-more-with-javascript-es6-5fd4a8e50ee2)
