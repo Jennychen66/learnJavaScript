@@ -40,5 +40,4 @@ use this command line to fix the above issue
     `npm install --save-dev gulp-sass@latest`
 https://github.com/sass/node-sass/issues/2196
 ###  [nodejs pervious version release](https://nodejs.org/en/download/releases/)
-###  [A javascript lib tutorials](https://flaviocopes.com/tags/node/)
-    [javascript ES6](https://medium.freecodecamp.org/write-less-do-more-with-javascript-es6-5fd4a8e50ee2)
+### [ES6 And Typescript](https://github.com/Jennychen66/LearnJs/wiki/ES6-And-Typescript)
