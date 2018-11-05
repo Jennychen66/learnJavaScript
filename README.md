@@ -66,7 +66,17 @@ ____________________________
  ```
  
 ![image](https://user-images.githubusercontent.com/39254430/47909088-d64d8f00-dec9-11e8-874c-96eee7223277.png)       
-![image](https://user-images.githubusercontent.com/39254430/47909263-52e06d80-deca-11e8-8c0a-f722bbb6fbd9.png)        
+![image](https://user-images.githubusercontent.com/39254430/47909263-52e06d80-deca-11e8-8c0a-f722bbb6fbd9.png)     
+![image](https://user-images.githubusercontent.com/39254430/47974414-78e15a00-e0e4-11e8-9fc0-839bc474384f.png)
+![image](https://user-images.githubusercontent.com/39254430/47974494-daa1c400-e0e4-11e8-8008-281f76b98151.png)
+Rxjs (Reactive Js ) implements the asynchronous (yibu) observable pattern and is widely used in Angular2.
+![image](https://user-images.githubusercontent.com/39254430/47975937-09bb3400-e0eb-11e8-910d-c6c0b70b4f7d.png)
+![image](https://user-images.githubusercontent.com/39254430/47976603-22791900-e0ee-11e8-811f-cc141148a4c3.png)
+![image](https://user-images.githubusercontent.com/39254430/47976782-34a78700-e0ef-11e8-8c27-b95d85afb744.png)
+<img width="1149" alt="capture" src="https://user-images.githubusercontent.com/39254430/47979351-bc948d80-e0fd-11e8-8132-873bf7ce7ed8.PNG">
+
+
+
 ____________________________
 
 
