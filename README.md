@@ -89,8 +89,11 @@ Loading a feature module at startup, with the root module begin by creating a fe
 
 Customer based preload strategy:
 ![image](https://user-images.githubusercontent.com/39254430/47981592-662c4c80-e107-11e8-9580-368233ac9b23.png)
+![image](https://user-images.githubusercontent.com/39254430/47981976-e7381380-e108-11e8-8624-4482d4e7f02f.png)
+![image](https://user-images.githubusercontent.com/39254430/47981948-ce2f6280-e108-11e8-9a1b-6586d37ca134.png)
+![image](https://user-images.githubusercontent.com/39254430/47981918-aa6c1c80-e108-11e8-9b3e-3d162ffaa7b0.png)
 
-
+![image](https://user-images.githubusercontent.com/39254430/47982195-ce7c2d80-e109-11e8-8506-feff64dd5c28.png)
 
 
 
