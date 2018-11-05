@@ -74,6 +74,24 @@ Rxjs (Reactive Js ) implements the asynchronous (yibu) observable pattern and is
 ![image](https://user-images.githubusercontent.com/39254430/47976603-22791900-e0ee-11e8-811f-cc141148a4c3.png)
 ![image](https://user-images.githubusercontent.com/39254430/47976782-34a78700-e0ef-11e8-8c27-b95d85afb744.png)
 <img width="1149" alt="capture" src="https://user-images.githubusercontent.com/39254430/47979351-bc948d80-e0fd-11e8-8132-873bf7ce7ed8.PNG">
+![image](https://user-images.githubusercontent.com/39254430/47979466-46445b00-e0fe-11e8-8892-b2aa47230e60.png)
+![image](https://user-images.githubusercontent.com/39254430/47979511-7d1a7100-e0fe-11e8-8fdf-7ad003737bad.png)
+![image](https://user-images.githubusercontent.com/39254430/47979550-a89d5b80-e0fe-11e8-8f39-e0156fdfbac2.png)
+![image](https://user-images.githubusercontent.com/39254430/47980133-295d5700-e101-11e8-8541-cc7f5bbeb435.png)
+![image](https://user-images.githubusercontent.com/39254430/47980204-77725a80-e101-11e8-9d17-a7636dd6c0c5.png)
+![image](https://user-images.githubusercontent.com/39254430/47980742-fd8fa080-e103-11e8-9226-521711c32355.png)
+
+Eager Loading : 
+Loading a feature module at startup, with the root module begin by creating a feature module with routing.
+![image](https://user-images.githubusercontent.com/39254430/47980893-a0481f00-e104-11e8-998f-d59cd449b802.png)
+![image](https://user-images.githubusercontent.com/39254430/47981156-b0143300-e105-11e8-86de-ab59a95674d6.png)
+![image](https://user-images.githubusercontent.com/39254430/47981488-0afa5a00-e107-11e8-84a2-9933c80cbccd.png)
+
+Customer based preload strategy:
+![image](https://user-images.githubusercontent.com/39254430/47981592-662c4c80-e107-11e8-9580-368233ac9b23.png)
+
+
+
 
 
 
