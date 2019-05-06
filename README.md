@@ -41,3 +41,6 @@ use this command line to fix the above issue
 https://github.com/sass/node-sass/issues/2196
 ###  [nodejs pervious version release](https://nodejs.org/en/download/releases/)
 ### [ES6 And Typescript](https://github.com/Jennychen66/LearnJs/wiki/ES6-And-Typescript)
+
+[learn 'this' in javascript](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85)
+
