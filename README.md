@@ -44,3 +44,4 @@ https://github.com/sass/node-sass/issues/2196
 
 [learn 'this' in javascript](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85)
 
+![image](https://user-images.githubusercontent.com/39254430/57209696-0eb25f00-700c-11e9-88f1-e813249ce21a.png)
